@@ -66,6 +66,5 @@ public class GenericMethod {
         util.Display(p1.getKey());
         util.Display(p1.getValue());
 
-
     }
 }
